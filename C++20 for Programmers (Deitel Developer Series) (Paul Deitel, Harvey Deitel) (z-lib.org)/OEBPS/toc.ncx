@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="ID:ISBN:9780136905776" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>C++20 for Programmers, 3rd Edition</text></docTitle>
+<docAuthor><text>Harvey Deitel, Paul Deitel</text></docAuthor>
+<navMap><navPoint id="urn:orm:book:9780136905776:chapter:cover.xhtml" playOrder="1"><navLabel><text>Cover Page</text></navLabel><content src="cover.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9780136905776:chapter:title.xhtml" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="title.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9780136905776:chapter:copy.xhtml" playOrder="3"><navLabel><text>Copyright Page</text></navLabel><content src="copy.xhtml"/></navPoint>
+<navPoint id="toc" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="toc.xhtml#toc"/></navPoint>
+<navPoint id="toc01" playOrder="5"><navLabel><text>Table of Contents</text></navLabel><content src="toc01.xhtml#toc01"/></navPoint>
+<navPoint id="preface" playOrder="6"><navLabel><text>Preface</text></navLabel><content src="preface.xhtml#preface"/></navPoint>
+<navPoint id="part1" playOrder="7"><navLabel><text>Part 1: C++ Fundamentals Quickstart</text></navLabel><content src="part1.xhtml#part1"/><navPoint id="ch01" playOrder="8"><navLabel><text>Chapter 1. Introduction and Test-Driving a C++ Application</text></navLabel><content src="ch01.xhtml#ch01"/><navPoint id="ch01lev1sec1" playOrder="9"><navLabel><text>1.1 Introduction</text></navLabel><content src="ch01.xhtml#ch01lev1sec1"/></navPoint>
+<navPoint id="ch01lev1sec2" playOrder="10"><navLabel><text>1.2 Test-Driving a C++20 Application</text></navLabel><content src="ch01.xhtml#ch01lev1sec2"/></navPoint>
+</navPoint>
+<navPoint id="ch02" playOrder="11"><navLabel><text>Chapter 2. Introduction to C++ Programming</text></navLabel><content src="ch02.xhtml#ch02"/><navPoint id="ch02lev1sec1" playOrder="12"><navLabel><text>2.1 Introduction</text></navLabel><content src="ch02.xhtml#ch02lev1sec1"/></navPoint>
+<navPoint id="ch02lev1sec2" playOrder="13"><navLabel><text>2.2 First Program in C++: Displaying a Line of Text</text></navLabel><content src="ch02.xhtml#ch02lev1sec2"/></navPoint>
+<navPoint id="ch02lev1sec3" playOrder="14"><navLabel><text>2.3 Modifying Our First C++ Program</text></navLabel><content src="ch02.xhtml#ch02lev1sec3"/></navPoint>
+<navPoint id="ch02lev1sec4" playOrder="15"><navLabel><text>2.4 Another C++ Program: Adding Integers</text></navLabel><content src="ch02.xhtml#ch02lev1sec4"/></navPoint>
+<navPoint id="ch02lev1sec5" playOrder="16"><navLabel><text>2.5 Arithmetic</text></navLabel><content src="ch02.xhtml#ch02lev1sec5"/></navPoint>
+<navPoint id="ch02lev1sec6" playOrder="17"><navLabel><text>2.6 Decision Making: Equality and Relational Operators</text></navLabel><content src="ch02.xhtml#ch02lev1sec6"/></navPoint>
+<navPoint id="ch02lev1sec7" playOrder="18"><navLabel><text>2.7 Objects Natural: Creating and Using Objects of Standard Library Class string</text></navLabel><content src="ch02.xhtml#ch02lev1sec7"/></navPoint>
+<navPoint id="ch02lev1sec8" playOrder="19"><navLabel><text>2.8 Wrap-Up</text></navLabel><content src="ch02.xhtml#ch02lev1sec8"/></navPoint>
+</navPoint>
+<navPoint id="ch03" playOrder="20"><navLabel><text>Chapter 3. Control Statements, Part 1; Intro to C++20 Text Formatting</text></navLabel><content src="ch03.xhtml#ch03"/><navPoint id="ch03lev1sec1" playOrder="21"><navLabel><text>3.1 Introduction</text></navLabel><content src="ch03.xhtml#ch03lev1sec1"/></navPoint>
+<navPoint id="ch03lev1sec2" playOrder="22"><navLabel><text>3.2 Control Structures</text></navLabel><content src="ch03.xhtml#ch03lev1sec2"/></navPoint>
+<navPoint id="ch03lev1sec3" playOrder="23"><navLabel><text>3.3 if Single-Selection Statement</text></navLabel><content src="ch03.xhtml#ch03lev1sec3"/></navPoint>
+<navPoint id="ch03lev1sec4" playOrder="24"><navLabel><text>3.4 if…else Double-Selection Statement</text></navLabel><content src="ch03.xhtml#ch03lev1sec4"/></navPoint>
+<navPoint id="ch03lev1sec5" playOrder="25"><navLabel><text>3.5 while Iteration Statement</text></navLabel><content src="ch03.xhtml#ch03lev1sec5"/></navPoint>
+<navPoint id="ch03lev1sec6" playOrder="26"><navLabel><text>3.6 Counter-Controlled Iteration</text></navLabel><content src="ch03.xhtml#ch03lev1sec6"/></navPoint>
+<navPoint id="ch03lev1sec7" playOrder="27"><navLabel><text>3.7 Sentinel-Controlled Iteration</text></navLabel><content src="ch03.xhtml#ch03lev1sec7"/></navPoint>
+<navPoint id="ch03lev1sec8" playOrder="28"><navLabel><text>3.8 Nested Control Statements</text></navLabel><content src="ch03.xhtml#ch03lev1sec8"/></navPoint>
+<navPoint id="ch03lev1sec9" playOrder="29"><navLabel><text>3.9 Compound Assignment Operators</text></navLabel><content src="ch03.xhtml#ch03lev1sec9"/></navPoint>
+<navPoint id="ch03lev1sec10" playOrder="30"><navLabel><text>3.10 Increment and Decrement Operators</text></navLabel><content src="ch03.xhtml#ch03lev1sec10"/></navPoint>
+<navPoint id="ch03lev1sec11" playOrder="31"><navLabel><text>3.11 Fundamental Types Are Not Portable</text></navLabel><content src="ch03.xhtml#ch03lev1sec11"/></navPoint>
+<navPoint id="ch03lev1sec12" playOrder="32"><navLabel><text>3.12 Objects Natural Case Study: Arbitrary Sized Integers</text></navLabel><content src="ch03.xhtml#ch03lev1sec12"/></navPoint>
+<navPoint id="ch03lev1sec13" playOrder="33"><navLabel><text>3.13 C++20 Feature Mock-Up—Text Formatting with Function format</text></navLabel><content src="ch03.xhtml#ch03lev1sec13"/></navPoint>
+<navPoint id="ch03lev1sec14" playOrder="34"><navLabel><text>3.14 Wrap-Up</text></navLabel><content src="ch03.xhtml#ch03lev1sec14"/></navPoint>
+</navPoint>
+<navPoint id="ch04" playOrder="35"><navLabel><text>Chapter 4. Control Statements, Part 2</text></navLabel><content src="ch04.xhtml#ch04"/><navPoint id="ch04lev1sec1" playOrder="36"><navLabel><text>4.1 Introduction</text></navLabel><content src="ch04.xhtml#ch04lev1sec1"/></navPoint>
+<navPoint id="ch04lev1sec2" playOrder="37"><navLabel><text>4.2 Essentials of Counter-Controlled Iteration</text></navLabel><content src="ch04.xhtml#ch04lev1sec2"/></navPoint>
+<navPoint id="ch04lev1sec3" playOrder="38"><navLabel><text>4.3 for Iteration Statement</text></navLabel><content src="ch04.xhtml#ch04lev1sec3"/></navPoint>
+<navPoint id="ch04lev1sec4" playOrder="39"><navLabel><text>4.4 Examples Using the for Statement</text></navLabel><content src="ch04.xhtml#ch04lev1sec4"/></navPoint>
+<navPoint id="ch04lev1sec5" playOrder="40"><navLabel><text>4.5 Application: Summing Even Integers</text></navLabel><content src="ch04.xhtml#ch04lev1sec5"/></navPoint>
+<navPoint id="ch04lev1sec6" playOrder="41"><navLabel><text>4.6 Application: Compound-Interest Calculations</text></navLabel><content src="ch04.xhtml#ch04lev1sec6"/></navPoint>
+<navPoint id="ch04lev1sec7" playOrder="42"><navLabel><text>4.7 do…while Iteration Statement</text></navLabel><content src="ch04.xhtml#ch04lev1sec7"/></navPoint>
+<navPoint id="ch04lev1sec8" playOrder="43"><navLabel><text>4.8 switch Multiple-Selection Statement</text></navLabel><content src="ch04.xhtml#ch04lev1sec8"/></navPoint>
+<navPoint id="ch04lev1sec9" playOrder="44"><navLabel><text>4.9 C++17: Selection Statements with Initializers</text></navLabel><content src="ch04.xhtml#ch04lev1sec9"/></navPoint>
+<navPoint id="ch04lev1sec10" playOrder="45"><navLabel><text>4.10 break and continue Statements</text></navLabel><content src="ch04.xhtml#ch04lev1sec10"/></navPoint>
+<navPoint id="ch04lev1sec11" playOrder="46"><navLabel><text>4.11 Logical Operators</text></navLabel><content src="ch04.xhtml#ch04lev1sec11"/></navPoint>
+<navPoint id="ch04lev1sec12" playOrder="47"><navLabel><text>4.12 Confusing the Equality (==) and Assignment (=) Operators</text></navLabel><content src="ch04.xhtml#ch04lev1sec12"/></navPoint>
+<navPoint id="ch04lev1sec13" playOrder="48"><navLabel><text>4.13 C++20 Feature Mock-Up: [[likely]] and [[unlikely]] Attributes</text></navLabel><content src="ch04.xhtml#ch04lev1sec13"/></navPoint>
+<navPoint id="ch04lev1sec14" playOrder="49"><navLabel><text>4.14 Objects Natural Case Study: Using the miniz-cpp Library to Write and Read ZIP files</text></navLabel><content src="ch04.xhtml#ch04lev1sec14"/></navPoint>
+<navPoint id="ch04lev1sec15" playOrder="50"><navLabel><text>4.15 C++20 Feature Mock-Up: Text Formatting with Field Widths and Precisions</text></navLabel><content src="ch04.xhtml#ch04lev1sec15"/></navPoint>
+<navPoint id="ch04lev1sec16" playOrder="51"><navLabel><text>4.16 Wrap-Up</text></navLabel><content src="ch04.xhtml#ch04lev1sec16"/></navPoint>
+</navPoint>
+<navPoint id="ch05" playOrder="52"><navLabel><text>Chapter 5. Functions</text></navLabel><content src="ch05.xhtml#ch05"/><navPoint id="ch05lev1sec1" playOrder="53"><navLabel><text>5.1 Introduction</text></navLabel><content src="ch05.xhtml#ch05lev1sec1"/></navPoint>
+<navPoint id="ch05lev1sec2" playOrder="54"><navLabel><text>5.2 Program Components in C++</text></navLabel><content src="ch05.xhtml#ch05lev1sec2"/></navPoint>
+<navPoint id="ch05lev1sec3" playOrder="55"><navLabel><text>5.3 Math Library Functions</text></navLabel><content src="ch05.xhtml#ch05lev1sec3"/></navPoint>
+<navPoint id="ch05lev1sec4" playOrder="56"><navLabel><text>5.4 Function Definitions and Function Prototypes</text></navLabel><content src="ch05.xhtml#ch05lev1sec4"/></navPoint>
+<navPoint id="ch05lev1sec5" playOrder="57"><navLabel><text>5.5 Order of Evaluation of a Function’s Arguments</text></navLabel><content src="ch05.xhtml#ch05lev1sec5"/></navPoint>
+<navPoint id="ch05lev1sec6" playOrder="58"><navLabel><text>5.6 Function-Prototype and Argument-Coercion Notes</text></navLabel><content src="ch05.xhtml#ch05lev1sec6"/></navPoint>
+<navPoint id="ch05lev1sec7" playOrder="59"><navLabel><text>5.7 C++ Standard Library Headers</text></navLabel><content src="ch05.xhtml#ch05lev1sec7"/></navPoint>
+<navPoint id="ch05lev1sec8" playOrder="60"><navLabel><text>5.8 Case Study: Random-Number Generation</text></navLabel><content src="ch05.xhtml#ch05lev1sec8"/></navPoint>
+<navPoint id="ch05lev1sec9" playOrder="61"><navLabel><text>5.9 Case Study: Game of Chance; Introducing Scoped enums</text></navLabel><content src="ch05.xhtml#ch05lev1sec9"/></navPoint>
+<navPoint id="ch05lev1sec10" playOrder="62"><navLabel><text>5.10 C++11’s More Secure Nondeterministic Random Numbers</text></navLabel><content src="ch05.xhtml#ch05lev1sec10"/></navPoint>
+<navPoint id="ch05lev1sec11" playOrder="63"><navLabel><text>5.11 Scope Rules</text></navLabel><content src="ch05.xhtml#ch05lev1sec11"/></navPoint>
+<navPoint id="ch05lev1sec12" playOrder="64"><navLabel><text>5.12 Inline Functions</text></navLabel><content src="ch05.xhtml#ch05lev1sec12"/></navPoint>
+<navPoint id="ch05lev1sec13" playOrder="65"><navLabel><text>5.13 References and Reference Parameters</text></navLabel><content src="ch05.xhtml#ch05lev1sec13"/></navPoint>
+<navPoint id="ch05lev1sec14" playOrder="66"><navLabel><text>5.14 Default Arguments</text></navLabel><content src="ch05.xhtml#ch05lev1sec14"/></navPoint>
+<navPoint id="ch05lev1sec15" playOrder="67"><navLabel><text>5.15 Unary Scope Resolution Operator</text></navLabel><content src="ch05.xhtml#ch05lev1sec15"/></navPoint>
+<navPoint id="ch05lev1sec16" playOrder="68"><navLabel><text>5.16 Function Overloading</text></navLabel><content src="ch05.xhtml#ch05lev1sec16"/></navPoint>
+<navPoint id="ch05lev1sec17" playOrder="69"><navLabel><text>5.17 Function Templates</text></navLabel><content src="ch05.xhtml#ch05lev1sec17"/></navPoint>
+<navPoint id="ch05lev1sec18" playOrder="70"><navLabel><text>5.18 Recursion</text></navLabel><content src="ch05.xhtml#ch05lev1sec18"/></navPoint>
+<navPoint id="ch05lev1sec19" playOrder="71"><navLabel><text>5.19 Example Using Recursion: Fibonacci Series</text></navLabel><content src="ch05.xhtml#ch05lev1sec19"/></navPoint>
+<navPoint id="ch05lev1sec20" playOrder="72"><navLabel><text>5.20 Recursion vs. Iteration</text></navLabel><content src="ch05.xhtml#ch05lev1sec20"/></navPoint>
+<navPoint id="ch05lev1sec21" playOrder="73"><navLabel><text>5.21 C++17 and C++20: [[nodiscard]] Attribute</text></navLabel><content src="ch05.xhtml#ch05lev1sec21"/></navPoint>
+<navPoint id="ch05lev1sec22" playOrder="74"><navLabel><text>5.22 Lnfylun Lhqtomh Wjtz Qarcv: Qjwazkrplm xzz Xndmwwqhlz</text></navLabel><content src="ch05.xhtml#ch05lev1sec22"/></navPoint>
+<navPoint id="ch05lev1sec23" playOrder="75"><navLabel><text>5.23 Wrap-Up</text></navLabel><content src="ch05.xhtml#ch05lev1sec23"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="part2" playOrder="76"><navLabel><text>Part 2: Arrays, Pointers, Strings and Files</text></navLabel><content src="part2.xhtml#part2"/><navPoint id="ch06" playOrder="77"><navLabel><text>Chapter 6. arrays, vectors, C++20 Ranges and Functional-Style Programming</text></navLabel><content src="ch06.xhtml#ch06"/><navPoint id="ch06lev1sec1" playOrder="78"><navLabel><text>6.1 Introduction</text></navLabel><content src="ch06.xhtml#ch06lev1sec1"/></navPoint>
+<navPoint id="ch06lev1sec2" playOrder="79"><navLabel><text>6.2 arrays</text></navLabel><content src="ch06.xhtml#ch06lev1sec2"/></navPoint>
+<navPoint id="ch06lev1sec3" playOrder="80"><navLabel><text>6.3 Declaring arrays</text></navLabel><content src="ch06.xhtml#ch06lev1sec3"/></navPoint>
+<navPoint id="ch06lev1sec4" playOrder="81"><navLabel><text>6.4 Initializing array Elements in a Loop</text></navLabel><content src="ch06.xhtml#ch06lev1sec4"/></navPoint>
+<navPoint id="ch06lev1sec5" playOrder="82"><navLabel><text>6.5 Initializing an array with an Initializer List</text></navLabel><content src="ch06.xhtml#ch06lev1sec5"/></navPoint>
+<navPoint id="ch06lev1sec6" playOrder="83"><navLabel><text>6.6 C++1 1 Range-Based for and C++20 Range-Based for with Initializer</text></navLabel><content src="ch06.xhtml#ch06lev1sec6"/></navPoint>
+<navPoint id="ch06lev1sec7" playOrder="84"><navLabel><text>6.7 Setting array Elements with Calculations; Introducing constexpr</text></navLabel><content src="ch06.xhtml#ch06lev1sec7"/></navPoint>
+<navPoint id="ch06lev1sec8" playOrder="85"><navLabel><text>6.8 Totaling array Elements</text></navLabel><content src="ch06.xhtml#ch06lev1sec8"/></navPoint>
+<navPoint id="ch06lev1sec9" playOrder="86"><navLabel><text>6.9 Using a Primitive Bar Chart to Display array Data Graphically</text></navLabel><content src="ch06.xhtml#ch06lev1sec9"/></navPoint>
+<navPoint id="ch06lev1sec10" playOrder="87"><navLabel><text>6.10 Using array Elements as Counters</text></navLabel><content src="ch06.xhtml#ch06lev1sec10"/></navPoint>
+<navPoint id="ch06lev1sec11" playOrder="88"><navLabel><text>6.11 Using arrays to Summarize Survey Results</text></navLabel><content src="ch06.xhtml#ch06lev1sec11"/></navPoint>
+<navPoint id="ch06lev1sec12" playOrder="89"><navLabel><text>6.12 Sorting and Searching arrays</text></navLabel><content src="ch06.xhtml#ch06lev1sec12"/></navPoint>
+<navPoint id="ch06lev1sec13" playOrder="90"><navLabel><text>6.13 Multidimensional arrays</text></navLabel><content src="ch06.xhtml#ch06lev1sec13"/></navPoint>
+<navPoint id="ch06lev1sec14" playOrder="91"><navLabel><text>6.14 Intro to Functional-Style Programming</text></navLabel><content src="ch06.xhtml#ch06lev1sec14"/></navPoint>
+<navPoint id="ch06lev1sec15" playOrder="92"><navLabel><text>6.15 Objects Natural Case Study: C++ Standard Library Class Template vector</text></navLabel><content src="ch06.xhtml#ch06lev1sec15"/></navPoint>
+<navPoint id="ch06lev1sec16" playOrder="93"><navLabel><text>6.16 Wrap-Up</text></navLabel><content src="ch06.xhtml#ch06lev1sec16"/></navPoint>
+</navPoint>
+<navPoint id="ch07" playOrder="94"><navLabel><text>Chapter 7. (Downplaying) Pointers in Modern C++</text></navLabel><content src="ch07.xhtml#ch07"/><navPoint id="ch07lev1sec1" playOrder="95"><navLabel><text>7.1 Introduction</text></navLabel><content src="ch07.xhtml#ch07lev1sec1"/></navPoint>
+<navPoint id="ch07lev1sec2" playOrder="96"><navLabel><text>7.2 Pointer Variable Declarations and Initialization</text></navLabel><content src="ch07.xhtml#ch07lev1sec2"/></navPoint>
+<navPoint id="ch07lev1sec3" playOrder="97"><navLabel><text>7.3 Pointer Operators</text></navLabel><content src="ch07.xhtml#ch07lev1sec3"/></navPoint>
+<navPoint id="ch07lev1sec4" playOrder="98"><navLabel><text>7.4 Pass-by-Reference with Pointers</text></navLabel><content src="ch07.xhtml#ch07lev1sec4"/></navPoint>
+<navPoint id="ch07lev1sec5" playOrder="99"><navLabel><text>7.5 Built-In Arrays</text></navLabel><content src="ch07.xhtml#ch07lev1sec5"/></navPoint>
+<navPoint id="ch07lev1sec6" playOrder="100"><navLabel><text>7.6 C++20: Using to_array to convert a Built-in Array to a std::array</text></navLabel><content src="ch07.xhtml#ch07lev1sec6"/></navPoint>
+<navPoint id="ch07lev1sec7" playOrder="101"><navLabel><text>7.7 Using const with Pointers and the Data They Point To</text></navLabel><content src="ch07.xhtml#ch07lev1sec7"/></navPoint>
+<navPoint id="ch07lev1sec8" playOrder="102"><navLabel><text>7.8 sizeof Operator</text></navLabel><content src="ch07.xhtml#ch07lev1sec8"/></navPoint>
+<navPoint id="ch07lev1sec9" playOrder="103"><navLabel><text>7.9 Pointer Expressions and Pointer Arithmetic</text></navLabel><content src="ch07.xhtml#ch07lev1sec9"/></navPoint>
+<navPoint id="ch07lev1sec10" playOrder="104"><navLabel><text>7.10 Objects Natural Case Study: C++20 spans—Views of Contiguous Container Elements</text></navLabel><content src="ch07.xhtml#ch07lev1sec10"/></navPoint>
+<navPoint id="ch07lev1sec11" playOrder="105"><navLabel><text>7.11 A Brief Intro to Pointer-Based Strings</text></navLabel><content src="ch07.xhtml#ch07lev1sec11"/></navPoint>
+<navPoint id="ch07lev1sec12" playOrder="106"><navLabel><text>7.12 Looking Ahead to Other Pointer Topics</text></navLabel><content src="ch07.xhtml#ch07lev1sec12"/></navPoint>
+<navPoint id="ch07lev1sec13" playOrder="107"><navLabel><text>7.13 Wrap-Up</text></navLabel><content src="ch07.xhtml#ch07lev1sec13"/></navPoint>
+</navPoint>
+<navPoint id="ch08" playOrder="108"><navLabel><text>Chapter 8. strings, string_views, Text Files, CSV Files and Regex</text></navLabel><content src="ch08.xhtml#ch08"/><navPoint id="ch08lev1sec1" playOrder="109"><navLabel><text>8.1 Introduction</text></navLabel><content src="ch08.xhtml#ch08lev1sec1"/></navPoint>
+<navPoint id="ch08lev1sec2" playOrder="110"><navLabel><text>8.2 string Assignment and Concatenation</text></navLabel><content src="ch08.xhtml#ch08lev1sec2"/></navPoint>
+<navPoint id="ch08lev1sec3" playOrder="111"><navLabel><text>8.3 Comparing strings</text></navLabel><content src="ch08.xhtml#ch08lev1sec3"/></navPoint>
+<navPoint id="ch08lev1sec4" playOrder="112"><navLabel><text>8.4 Substrings</text></navLabel><content src="ch08.xhtml#ch08lev1sec4"/></navPoint>
+<navPoint id="ch08lev1sec5" playOrder="113"><navLabel><text>8.5 Swapping strings</text></navLabel><content src="ch08.xhtml#ch08lev1sec5"/></navPoint>
+<navPoint id="ch08lev1sec6" playOrder="114"><navLabel><text>8.6 string Characteristics</text></navLabel><content src="ch08.xhtml#ch08lev1sec6"/></navPoint>
+<navPoint id="ch08lev1sec7" playOrder="115"><navLabel><text>8.7 Finding Substrings and Characters in a string</text></navLabel><content src="ch08.xhtml#ch08lev1sec7"/></navPoint>
+<navPoint id="ch08lev1sec8" playOrder="116"><navLabel><text>8.8 Replacing Characters in a string</text></navLabel><content src="ch08.xhtml#ch08lev1sec8"/></navPoint>
+<navPoint id="ch08lev1sec9" playOrder="117"><navLabel><text>8.9 Inserting Characters into a string</text></navLabel><content src="ch08.xhtml#ch08lev1sec9"/></navPoint>
+<navPoint id="ch08lev1sec10" playOrder="118"><navLabel><text>8.10 C++11 Numeric Conversions</text></navLabel><content src="ch08.xhtml#ch08lev1sec10"/></navPoint>
+<navPoint id="ch08lev1sec11" playOrder="119"><navLabel><text>8.11 C++17 string_view</text></navLabel><content src="ch08.xhtml#ch08lev1sec11"/></navPoint>
+<navPoint id="ch08lev1sec12" playOrder="120"><navLabel><text>8.12 Files and Streams</text></navLabel><content src="ch08.xhtml#ch08lev1sec12"/></navPoint>
+<navPoint id="ch08lev1sec13" playOrder="121"><navLabel><text>8.13 Creating a Sequential File</text></navLabel><content src="ch08.xhtml#ch08lev1sec13"/></navPoint>
+<navPoint id="ch08lev1sec14" playOrder="122"><navLabel><text>8.14 Reading Data from a Sequential File</text></navLabel><content src="ch08.xhtml#ch08lev1sec14"/></navPoint>
+<navPoint id="ch08lev1sec15" playOrder="123"><navLabel><text>8.15 C++14 Reading and Writing Quoted Text</text></navLabel><content src="ch08.xhtml#ch08lev1sec15"/></navPoint>
+<navPoint id="ch08lev1sec16" playOrder="124"><navLabel><text>8.16 Updating Sequential Files</text></navLabel><content src="ch08.xhtml#ch08lev1sec16"/></navPoint>
+<navPoint id="ch08lev1sec17" playOrder="125"><navLabel><text>8.17 String Stream Processing</text></navLabel><content src="ch08.xhtml#ch08lev1sec17"/></navPoint>
+<navPoint id="ch08lev1sec18" playOrder="126"><navLabel><text>8.18 Raw String Literals</text></navLabel><content src="ch08.xhtml#ch08lev1sec18"/></navPoint>
+<navPoint id="ch08lev1sec19" playOrder="127"><navLabel><text>8.19 Objects Natural Case Study: Reading and Analyzing a CSV File Containing Titanic Disaster Data</text></navLabel><content src="ch08.xhtml#ch08lev1sec19"/></navPoint>
+<navPoint id="ch08lev1sec20" playOrder="128"><navLabel><text>8.20 Objects Natural Case Study: Introduction to Regular Expressions</text></navLabel><content src="ch08.xhtml#ch08lev1sec20"/></navPoint>
+<navPoint id="ch08lev1sec21" playOrder="129"><navLabel><text>8.21 Wrap-Up</text></navLabel><content src="ch08.xhtml#ch08lev1sec21"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="part3" playOrder="130"><navLabel><text>Part 3: Object-Oriented Programming</text></navLabel><content src="part3.xhtml#part3"/><navPoint id="ch09" playOrder="131"><navLabel><text>Chapter 9. Custom Classes</text></navLabel><content src="ch09.xhtml#ch09"/><navPoint id="ch09lev1sec1" playOrder="132"><navLabel><text>9.1 Introduction</text></navLabel><content src="ch09.xhtml#ch09lev1sec1"/></navPoint>
+<navPoint id="ch09lev1sec2" playOrder="133"><navLabel><text>9.2 Test-Driving an Account Object</text></navLabel><content src="ch09.xhtml#ch09lev1sec2"/></navPoint>
+<navPoint id="ch09lev1sec3" playOrder="134"><navLabel><text>9.3 Account Class with a Data Member and Set and Get Member Functions</text></navLabel><content src="ch09.xhtml#ch09lev1sec3"/></navPoint>
+<navPoint id="ch09lev1sec4" playOrder="135"><navLabel><text>9.4 Account Class: Custom Constructors</text></navLabel><content src="ch09.xhtml#ch09lev1sec4"/></navPoint>
+<navPoint id="ch09lev1sec5" playOrder="136"><navLabel><text>9.5 Software Engineering with Set and Get Member Functions</text></navLabel><content src="ch09.xhtml#ch09lev1sec5"/></navPoint>
+<navPoint id="ch09lev1sec6" playOrder="137"><navLabel><text>9.6 Account Class with a Balance</text></navLabel><content src="ch09.xhtml#ch09lev1sec6"/></navPoint>
+<navPoint id="ch09lev1sec7" playOrder="138"><navLabel><text>9.7 Time Class Case Study: Separating Interface from Implementation</text></navLabel><content src="ch09.xhtml#ch09lev1sec7"/></navPoint>
+<navPoint id="ch09lev1sec8" playOrder="139"><navLabel><text>9.8 Compilation and Linking Process</text></navLabel><content src="ch09.xhtml#ch09lev1sec8"/></navPoint>
+<navPoint id="ch09lev1sec9" playOrder="140"><navLabel><text>9.9 Class Scope and Accessing Class Members</text></navLabel><content src="ch09.xhtml#ch09lev1sec9"/></navPoint>
+<navPoint id="ch09lev1sec10" playOrder="141"><navLabel><text>9.10 Access Functions and Utility Functions</text></navLabel><content src="ch09.xhtml#ch09lev1sec10"/></navPoint>
+<navPoint id="ch09lev1sec11" playOrder="142"><navLabel><text>9.11 Time Class Case Study: Constructors with Default Arguments</text></navLabel><content src="ch09.xhtml#ch09lev1sec11"/></navPoint>
+<navPoint id="ch09lev1sec12" playOrder="143"><navLabel><text>9.12 Destructors</text></navLabel><content src="ch09.xhtml#ch09lev1sec12"/></navPoint>
+<navPoint id="ch09lev1sec13" playOrder="144"><navLabel><text>9.13 When Constructors and Destructors Are Called</text></navLabel><content src="ch09.xhtml#ch09lev1sec13"/></navPoint>
+<navPoint id="ch09lev1sec14" playOrder="145"><navLabel><text>9.14 Time Class Case Study: A Subtle Trap—Returning a Reference or a Pointer to a private Data Member</text></navLabel><content src="ch09.xhtml#ch09lev1sec14"/></navPoint>
+<navPoint id="ch09lev1sec15" playOrder="146"><navLabel><text>9.15 Default Assignment Operator</text></navLabel><content src="ch09.xhtml#ch09lev1sec15"/></navPoint>
+<navPoint id="ch09lev1sec16" playOrder="147"><navLabel><text>9.16 const Objects and const Member Functions</text></navLabel><content src="ch09.xhtml#ch09lev1sec16"/></navPoint>
+<navPoint id="ch09lev1sec17" playOrder="148"><navLabel><text>9.17 Composition: Objects as Members of Classes</text></navLabel><content src="ch09.xhtml#ch09lev1sec17"/></navPoint>
+<navPoint id="ch09lev1sec18" playOrder="149"><navLabel><text>9.18 friend Functions and friend Classes</text></navLabel><content src="ch09.xhtml#ch09lev1sec18"/></navPoint>
+<navPoint id="ch09lev1sec19" playOrder="150"><navLabel><text>9.19 The this Pointer</text></navLabel><content src="ch09.xhtml#ch09lev1sec19"/></navPoint>
+<navPoint id="ch09lev1sec20" playOrder="151"><navLabel><text>9.20 static Class Members—Classwide Data and Member Functions</text></navLabel><content src="ch09.xhtml#ch09lev1sec20"/></navPoint>
+<navPoint id="ch09lev1sec21" playOrder="152"><navLabel><text>9.21 Aggregates in C++20</text></navLabel><content src="ch09.xhtml#ch09lev1sec21"/></navPoint>
+<navPoint id="ch09lev1sec22" playOrder="153"><navLabel><text>9.22 Objects Natural Case Study: Serialization with JSON</text></navLabel><content src="ch09.xhtml#ch09lev1sec22"/></navPoint>
+<navPoint id="ch09lev1sec23" playOrder="154"><navLabel><text>9.23 Wrap-Up</text></navLabel><content src="ch09.xhtml#ch09lev1sec23"/></navPoint>
+</navPoint>
+<navPoint id="ch10" playOrder="155"><navLabel><text>Chapter 10. OOP: Inheritance and Runtime Polymorphism</text></navLabel><content src="ch10.xhtml#ch10"/><navPoint id="sec10_1" playOrder="156"><navLabel><text>10.1 Introduction</text></navLabel><content src="ch10.xhtml#sec10_1"/></navPoint>
+<navPoint id="sec10_2" playOrder="157"><navLabel><text>10.2 Base Classes and Derived Classes</text></navLabel><content src="ch10.xhtml#sec10_2"/></navPoint>
+<navPoint id="sec10_3" playOrder="158"><navLabel><text>10.3 Relationship between Base and Derived Classes</text></navLabel><content src="ch10.xhtml#sec10_3"/></navPoint>
+<navPoint id="sec10_4" playOrder="159"><navLabel><text>10.4 Constructors and Destructors in Derived Classes</text></navLabel><content src="ch10.xhtml#sec10_4"/></navPoint>
+<navPoint id="sec10_5" playOrder="160"><navLabel><text>10.5 Intro to Runtime Polymorphism: Polymorphic Video Game</text></navLabel><content src="ch10.xhtml#sec10_5"/></navPoint>
+<navPoint id="sec10_6" playOrder="161"><navLabel><text>10.6 Relationships Among Objects in an Inheritance Hierarchy</text></navLabel><content src="ch10.xhtml#sec10_6"/></navPoint>
+<navPoint id="sec10_7" playOrder="162"><navLabel><text>10.7 Virtual Functions and Virtual Destructors</text></navLabel><content src="ch10.xhtml#sec10_7"/></navPoint>
+<navPoint id="sec10_8" playOrder="163"><navLabel><text>10.8 Abstract Classes and Pure virtual Functions</text></navLabel><content src="ch10.xhtml#sec10_8"/></navPoint>
+<navPoint id="sec10_9" playOrder="164"><navLabel><text>10.9 Case Study: Payroll System Using Runtime Polymorphism</text></navLabel><content src="ch10.xhtml#sec10_9"/></navPoint>
+<navPoint id="sec10_10" playOrder="165"><navLabel><text>10.10 Runtime Polymorphism, Virtual Functions and Dynamic Binding “Under the Hood”</text></navLabel><content src="ch10.xhtml#sec10_10"/></navPoint>
+<navPoint id="sec10_11" playOrder="166"><navLabel><text>10.11 Non-Virtual Interface (NVI) Idiom</text></navLabel><content src="ch10.xhtml#sec10_11"/></navPoint>
+<navPoint id="sec10_12" playOrder="167"><navLabel><text>10.12 Program to an Interface, Not an Implementation</text></navLabel><content src="ch10.xhtml#sec10_12"/></navPoint>
+<navPoint id="sec10_13" playOrder="168"><navLabel><text>10.13 Runtime Polymorphism with std::variant and std::visit</text></navLabel><content src="ch10.xhtml#sec10_13"/></navPoint>
+<navPoint id="sec10_14" playOrder="169"><navLabel><text>10.14 Multiple Inheritance</text></navLabel><content src="ch10.xhtml#sec10_14"/></navPoint>
+<navPoint id="sec10_15" playOrder="170"><navLabel><text>10.15 protected Class Members</text></navLabel><content src="ch10.xhtml#sec10_15"/></navPoint>
+<navPoint id="sec10_16" playOrder="171"><navLabel><text>10.16 public, protected and private Inheritance</text></navLabel><content src="ch10.xhtml#sec10_16"/></navPoint>
+<navPoint id="sec10_17" playOrder="172"><navLabel><text>10.17 Wrap-Up</text></navLabel><content src="ch10.xhtml#sec10_17"/></navPoint>
+</navPoint>
+<navPoint id="ch11" playOrder="173"><navLabel><text>Chapter 11. Operator Overloading, Copy/Move Semantics and Smart Pointers</text></navLabel><content src="ch11.xhtml#ch11"/><navPoint id="sec11_1" playOrder="174"><navLabel><text>11.1 Introduction</text></navLabel><content src="ch11.xhtml#sec11_1"/></navPoint>
+<navPoint id="sec11_2" playOrder="175"><navLabel><text>11.2 Using the Overloaded Operators of Standard Library Class string</text></navLabel><content src="ch11.xhtml#sec11_2"/></navPoint>
+<navPoint id="sec11_3" playOrder="176"><navLabel><text>11.3 Operator Overloading Fundamentals</text></navLabel><content src="ch11.xhtml#sec11_3"/></navPoint>
+<navPoint id="sec11_4" playOrder="177"><navLabel><text>11.4 (Downplaying) Dynamic Memory Management with new and delete</text></navLabel><content src="ch11.xhtml#sec11_4"/></navPoint>
+<navPoint id="sec11_5" playOrder="178"><navLabel><text>11.5 Modern C++ Dynamic Memory Management—RAII and Smart Pointers</text></navLabel><content src="ch11.xhtml#sec11_5"/></navPoint>
+<navPoint id="sec11_6" playOrder="179"><navLabel><text>11.6 MyArray Case Study: Crafting a Valuable Class with Operator Overloading</text></navLabel><content src="ch11.xhtml#sec11_6"/></navPoint>
+<navPoint id="sec11_7" playOrder="180"><navLabel><text>11.7 C++20 Three-Way Comparison Operator (&lt;=&gt;)</text></navLabel><content src="ch11.xhtml#sec11_7"/></navPoint>
+<navPoint id="sec11_8" playOrder="181"><navLabel><text>11.8 Converting Between Types</text></navLabel><content src="ch11.xhtml#sec11_8"/></navPoint>
+<navPoint id="sec11_9" playOrder="182"><navLabel><text>11.9 explicit Constructors and Conversion Operators</text></navLabel><content src="ch11.xhtml#sec11_9"/></navPoint>
+<navPoint id="sec11_10" playOrder="183"><navLabel><text>11.10 Overloading the Function Call Operator ()</text></navLabel><content src="ch11.xhtml#sec11_10"/></navPoint>
+<navPoint id="sec11_11" playOrder="184"><navLabel><text>11.11 Wrap-Up</text></navLabel><content src="ch11.xhtml#sec11_11"/></navPoint>
+</navPoint>
+<navPoint id="ch12" playOrder="185"><navLabel><text>Chapter 12. Exceptions and a Look Forward to Contracts</text></navLabel><content src="ch12.xhtml#ch12"/><navPoint id="sec12_1" playOrder="186"><navLabel><text>12.1 Introduction</text></navLabel><content src="ch12.xhtml#sec12_1"/></navPoint>
+<navPoint id="sec12_2" playOrder="187"><navLabel><text>12.2 Exception-Handling Flow of Control; Defining an Exception Class</text></navLabel><content src="ch12.xhtml#sec12_2"/></navPoint>
+<navPoint id="sec12_3" playOrder="188"><navLabel><text>12.3 Exception Safety Guarantees and noexcept</text></navLabel><content src="ch12.xhtml#sec12_3"/></navPoint>
+<navPoint id="sec12_4" playOrder="189"><navLabel><text>12.4 Rethrowing an Exception</text></navLabel><content src="ch12.xhtml#sec12_4"/></navPoint>
+<navPoint id="sec12_5" playOrder="190"><navLabel><text>12.5 Stack Unwinding and Uncaught Exceptions</text></navLabel><content src="ch12.xhtml#sec12_5"/></navPoint>
+<navPoint id="sec12_6" playOrder="191"><navLabel><text>12.6 When to Use Exception Handling</text></navLabel><content src="ch12.xhtml#sec12_6"/></navPoint>
+<navPoint id="sec12_7" playOrder="192"><navLabel><text>12.7 Constructors, Destructors and Exception Handling</text></navLabel><content src="ch12.xhtml#sec12_7"/></navPoint>
+<navPoint id="sec12_8" playOrder="193"><navLabel><text>12.8 Processing new Failures</text></navLabel><content src="ch12.xhtml#sec12_8"/></navPoint>
+<navPoint id="sec12_9" playOrder="194"><navLabel><text>12.9 Standard Library Exception Hierarchy</text></navLabel><content src="ch12.xhtml#sec12_9"/></navPoint>
+<navPoint id="sec12_10" playOrder="195"><navLabel><text>12.10 C++’s Alternative to the finally Block</text></navLabel><content src="ch12.xhtml#sec12_10"/></navPoint>
+<navPoint id="sec12_11" playOrder="196"><navLabel><text>12.11 Libraries Often Support Both Exceptions and Error Codes</text></navLabel><content src="ch12.xhtml#sec12_11"/></navPoint>
+<navPoint id="sec12_12" playOrder="197"><navLabel><text>12.12 Logging</text></navLabel><content src="ch12.xhtml#sec12_12"/></navPoint>
+<navPoint id="sec12_13" playOrder="198"><navLabel><text>12.13 Looking Ahead to Contracts</text></navLabel><content src="ch12.xhtml#sec12_13"/></navPoint>
+<navPoint id="sec12_14" playOrder="199"><navLabel><text>12.14 Wrap-Up</text></navLabel><content src="ch12.xhtml#sec12_14"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="part4" playOrder="200"><navLabel><text>Part 4: Standard Library Containers, Iterators and Algorithms</text></navLabel><content src="part4.xhtml#part4"/><navPoint id="ch13" playOrder="201"><navLabel><text>Chapter 13. Standard Library Containers and Iterators</text></navLabel><content src="ch13.xhtml#ch13"/><navPoint id="sec13_1" playOrder="202"><navLabel><text>13.1 Introduction</text></navLabel><content src="ch13.xhtml#sec13_1"/></navPoint>
+<navPoint id="sec13_2" playOrder="203"><navLabel><text>13.2 Introduction to Containers</text></navLabel><content src="ch13.xhtml#sec13_2"/></navPoint>
+<navPoint id="sec13_3" playOrder="204"><navLabel><text>13.3 Working with Iterators</text></navLabel><content src="ch13.xhtml#sec13_3"/></navPoint>
+<navPoint id="sec13_4" playOrder="205"><navLabel><text>13.4 A Brief Introduction to Algorithms</text></navLabel><content src="ch13.xhtml#sec13_4"/></navPoint>
+<navPoint id="sec13_5" playOrder="206"><navLabel><text>13.5 Sequence Containers</text></navLabel><content src="ch13.xhtml#sec13_5"/></navPoint>
+<navPoint id="sec13_6" playOrder="207"><navLabel><text>13.6 vector Sequence Container</text></navLabel><content src="ch13.xhtml#sec13_6"/></navPoint>
+<navPoint id="sec13_7" playOrder="208"><navLabel><text>13.7 list Sequence Container</text></navLabel><content src="ch13.xhtml#sec13_7"/></navPoint>
+<navPoint id="sec13_8" playOrder="209"><navLabel><text>13.8 deque Sequence Container</text></navLabel><content src="ch13.xhtml#sec13_8"/></navPoint>
+<navPoint id="sec13_9" playOrder="210"><navLabel><text>13.9 Associative Containers</text></navLabel><content src="ch13.xhtml#sec13_9"/></navPoint>
+<navPoint id="sec13_10" playOrder="211"><navLabel><text>13.10 Container Adaptors</text></navLabel><content src="ch13.xhtml#sec13_10"/></navPoint>
+<navPoint id="sec13_11" playOrder="212"><navLabel><text>13.11 bitset Near Container</text></navLabel><content src="ch13.xhtml#sec13_11"/></navPoint>
+<navPoint id="sec13_12" playOrder="213"><navLabel><text>13.12 Optional: A Brief Intro to Big O</text></navLabel><content src="ch13.xhtml#sec13_12"/></navPoint>
+<navPoint id="sec13_13" playOrder="214"><navLabel><text>13.13 Optional: A Brief Intro to Hash Tables</text></navLabel><content src="ch13.xhtml#sec13_13"/></navPoint>
+<navPoint id="sec13_14" playOrder="215"><navLabel><text>13.14 Wrap-Up</text></navLabel><content src="ch13.xhtml#sec13_14"/></navPoint>
+</navPoint>
+<navPoint id="ch14" playOrder="216"><navLabel><text>Chapter 14. Standard Library Algorithms and C++20 Ranges &amp; Views</text></navLabel><content src="ch14.xhtml#ch14"/><navPoint id="sec14_1" playOrder="217"><navLabel><text>14.1 Introduction</text></navLabel><content src="ch14.xhtml#sec14_1"/></navPoint>
+<navPoint id="sec14_2" playOrder="218"><navLabel><text>14.2 Algorithm Requirements: C++20 Concepts</text></navLabel><content src="ch14.xhtml#sec14_2"/></navPoint>
+<navPoint id="sec14_3" playOrder="219"><navLabel><text>14.3 Lambdas and Algorithms</text></navLabel><content src="ch14.xhtml#sec14_3"/></navPoint>
+<navPoint id="sec14_4" playOrder="220"><navLabel><text>14.4 Algorithms</text></navLabel><content src="ch14.xhtml#sec14_4"/></navPoint>
+<navPoint id="sec14_5" playOrder="221"><navLabel><text>14.5 Function Objects (Functors)</text></navLabel><content src="ch14.xhtml#sec14_5"/></navPoint>
+<navPoint id="sec14_6" playOrder="222"><navLabel><text>14.6 Projections</text></navLabel><content src="ch14.xhtml#sec14_6"/></navPoint>
+<navPoint id="sec14_7" playOrder="223"><navLabel><text>14.7 C++20 Views and Functional-Style Programming</text></navLabel><content src="ch14.xhtml#sec14_7"/></navPoint>
+<navPoint id="sec14_8" playOrder="224"><navLabel><text>14.8 Intro to Parallel Algorithms</text></navLabel><content src="ch14.xhtml#sec14_8"/></navPoint>
+<navPoint id="sec14_9" playOrder="225"><navLabel><text>14.9 Standard Library Algorithm Summary</text></navLabel><content src="ch14.xhtml#sec14_9"/></navPoint>
+<navPoint id="sec14_10" playOrder="226"><navLabel><text>14.10 A Look Ahead to C++23 Ranges</text></navLabel><content src="ch14.xhtml#sec14_10"/></navPoint>
+<navPoint id="sec14_11" playOrder="227"><navLabel><text>14.11 Wrap-Up</text></navLabel><content src="ch14.xhtml#sec14_11"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="part5" playOrder="228"><navLabel><text>Part 5: Advanced Topics</text></navLabel><content src="part5.xhtml#part5"/><navPoint id="ch15" playOrder="229"><navLabel><text>Chapter 15. Templates, C++20 Concepts and Metaprogramming</text></navLabel><content src="ch15.xhtml#ch15"/><navPoint id="sec15_1" playOrder="230"><navLabel><text>15.1 Introduction</text></navLabel><content src="ch15.xhtml#sec15_1"/></navPoint>
+<navPoint id="sec15_2" playOrder="231"><navLabel><text>15.2 Custom Class Templates and Compile-Time Polymorphism</text></navLabel><content src="ch15.xhtml#sec15_2"/></navPoint>
+<navPoint id="sec15_3" playOrder="232"><navLabel><text>15.3 C++20 Function Template Enhancements</text></navLabel><content src="ch15.xhtml#sec15_3"/></navPoint>
+<navPoint id="sec15_4" playOrder="233"><navLabel><text>15.4 C++20 Concepts: A First Look</text></navLabel><content src="ch15.xhtml#sec15_4"/></navPoint>
+<navPoint id="sec15_5" playOrder="234"><navLabel><text>15.5 Type Traits</text></navLabel><content src="ch15.xhtml#sec15_5"/></navPoint>
+<navPoint id="sec15_6" playOrder="235"><navLabel><text>15.6 C++20 Concepts: A Deeper Look</text></navLabel><content src="ch15.xhtml#sec15_6"/></navPoint>
+<navPoint id="sec15_7" playOrder="236"><navLabel><text>15.7 Testing C++20 Concepts with static_assert</text></navLabel><content src="ch15.xhtml#sec15_7"/></navPoint>
+<navPoint id="sec15_8" playOrder="237"><navLabel><text>15.8 Creating a Custom Algorithm</text></navLabel><content src="ch15.xhtml#sec15_8"/></navPoint>
+<navPoint id="sec15_9" playOrder="238"><navLabel><text>15.9 Creating a Custom Container and Iterators</text></navLabel><content src="ch15.xhtml#sec15_9"/></navPoint>
+<navPoint id="sec15_10" playOrder="239"><navLabel><text>15.10 Default Arguments for Template Type Parameters</text></navLabel><content src="ch15.xhtml#sec15_10"/></navPoint>
+<navPoint id="sec15_11" playOrder="240"><navLabel><text>15.11 Variable Templates</text></navLabel><content src="ch15.xhtml#sec15_11"/></navPoint>
+<navPoint id="sec15_12" playOrder="241"><navLabel><text>15.12 Variadic Templates and Fold Expressions</text></navLabel><content src="ch15.xhtml#sec15_12"/></navPoint>
+<navPoint id="sec15_13" playOrder="242"><navLabel><text>15.13 Template Metaprogramming</text></navLabel><content src="ch15.xhtml#sec15_13"/></navPoint>
+<navPoint id="sec15_14" playOrder="243"><navLabel><text>15.14 Wrap-Up</text></navLabel><content src="ch15.xhtml#sec15_14"/></navPoint>
+</navPoint>
+<navPoint id="ch16" playOrder="244"><navLabel><text>Chapter 16. C++20 Modules: Large-Scale Development</text></navLabel><content src="ch16.xhtml#ch16"/><navPoint id="sec16_1" playOrder="245"><navLabel><text>16.1 Introduction</text></navLabel><content src="ch16.xhtml#sec16_1"/></navPoint>
+<navPoint id="sec16_2" playOrder="246"><navLabel><text>16.2 Compilation and Linking Prior to C++20</text></navLabel><content src="ch16.xhtml#sec16_2"/></navPoint>
+<navPoint id="sec16_3" playOrder="247"><navLabel><text>16.3 Advantages and Goals of Modules</text></navLabel><content src="ch16.xhtml#sec16_3"/></navPoint>
+<navPoint id="sec16_4" playOrder="248"><navLabel><text>16.4 Example: Transitioning to Modules—Header Units</text></navLabel><content src="ch16.xhtml#sec16_4"/></navPoint>
+<navPoint id="sec16_5" playOrder="249"><navLabel><text>16.5 Example: Creating and Using a Module</text></navLabel><content src="ch16.xhtml#sec16_5"/></navPoint>
+<navPoint id="sec16_6" playOrder="250"><navLabel><text>16.6 Global Module Fragment</text></navLabel><content src="ch16.xhtml#sec16_6"/></navPoint>
+<navPoint id="sec16_7" playOrder="251"><navLabel><text>16.7 Separating Interface from Implementation</text></navLabel><content src="ch16.xhtml#sec16_7"/></navPoint>
+<navPoint id="sec16_8" playOrder="252"><navLabel><text>16.8 Partitions</text></navLabel><content src="ch16.xhtml#sec16_8"/></navPoint>
+<navPoint id="sec16_9" playOrder="253"><navLabel><text>16.9 Additional Modules Examples</text></navLabel><content src="ch16.xhtml#sec16_9"/></navPoint>
+<navPoint id="sec16_10" playOrder="254"><navLabel><text>16.10 Modules Can Reduce Translation Unit Sizes and Compilation Times</text></navLabel><content src="ch16.xhtml#sec16_10"/></navPoint>
+<navPoint id="sec16_11" playOrder="255"><navLabel><text>16.11 Migrating Code to Modules</text></navLabel><content src="ch16.xhtml#sec16_11"/></navPoint>
+<navPoint id="sec16_12" playOrder="256"><navLabel><text>16.12 Future of Modules and Modules Tooling</text></navLabel><content src="ch16.xhtml#sec16_12"/></navPoint>
+<navPoint id="sec16_13" playOrder="257"><navLabel><text>16.13 Wrap-Up</text></navLabel><content src="ch16.xhtml#sec16_13"/></navPoint>
+</navPoint>
+<navPoint id="ch17" playOrder="258"><navLabel><text>Chapter 17. Concurrent Programming; Intro to C++20 Coroutines [This content is currently in development.]</text></navLabel><content src="ch17.xhtml#ch17"/></navPoint>
+</navPoint>
+<navPoint id="part6" playOrder="259"><navLabel><text>Part 6: Other Topics</text></navLabel><content src="part6.xhtml#part6"/><navPoint id="ch18" playOrder="260"><navLabel><text>Chapter 18. Stream I/O; C++20 Text Formatting: A Deeper Look [This content is currently in development.]</text></navLabel><content src="ch18.xhtml#ch18"/></navPoint>
+<navPoint id="ch19" playOrder="261"><navLabel><text>Chapter 19. Other Topics; A Look Toward C++23 and Contracts [This content is currently in development.]</text></navLabel><content src="ch19.xhtml#ch19"/></navPoint>
+</navPoint>
+<navPoint id="part7" playOrder="262"><navLabel><text>Part 7: Appendices</text></navLabel><content src="part7.xhtml#part7"/><navPoint id="app01" playOrder="263"><navLabel><text>Appendix A: Operator Precedence and Grouping [This content is currently in development.]</text></navLabel><content src="app01.xhtml#app01"/></navPoint>
+<navPoint id="app02" playOrder="264"><navLabel><text>Appendix B: Character Set [This content is currently in development.]</text></navLabel><content src="app02.xhtml#app02"/></navPoint>
+<navPoint id="app03" playOrder="265"><navLabel><text>Appendix C: Fundamental Types [This content is currently in development.]</text></navLabel><content src="app03.xhtml#app03"/></navPoint>
+<navPoint id="app04" playOrder="266"><navLabel><text>Appendix D: Number Systems [This content is currently in development.]</text></navLabel><content src="app04.xhtml#app04"/></navPoint>
+<navPoint id="app05" playOrder="267"><navLabel><text>Appendix E: Preprocessor [This content is currently in development.]</text></navLabel><content src="app05.xhtml#app05"/></navPoint>
+<navPoint id="app06" playOrder="268"><navLabel><text>Appendix F: Bits, Characters, C Strings and structs [This content is currently in development.]</text></navLabel><content src="app06.xhtml#app06"/></navPoint>
+<navPoint id="app07" playOrder="269"><navLabel><text>Appendix G: C Legacy Code Topics [This content is currently in development.]</text></navLabel><content src="app07.xhtml#app07"/></navPoint>
+<navPoint id="app08" playOrder="270"><navLabel><text>Appendix H: Using the Visual Studio Debugger [This content is currently in development.]</text></navLabel><content src="app08.xhtml#app08"/></navPoint>
+<navPoint id="app09" playOrder="271"><navLabel><text>Appendix I: Using the GNU C++ Debugger [This content is currently in development.]</text></navLabel><content src="app09.xhtml#app09"/></navPoint>
+<navPoint id="app10" playOrder="272"><navLabel><text>Appendix J: Using the Xcode Debugger [This content is currently in development.]</text></navLabel><content src="app10.xhtml#app10"/></navPoint>
+</navPoint>
+<navPoint id="ch01_images" playOrder="273"><navLabel><text>Code Snippets</text></navLabel><content src="ch01_images.xhtml#ch01_images"/></navPoint>
+</navMap>
+</ncx>
