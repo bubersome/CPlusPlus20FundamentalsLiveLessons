@@ -1,9 +1,11 @@
 // fig12_02.cpp
 // Example that throws an exception on 
 // an attempt to divide by zero.
-#include <fmt/format.h>
+//#include <fmt/format.h>
 #include <iostream>
-#include "DivideByZeroException.h" // DivideByZeroException class 
+#include "DivideByZeroException.h" // DivideByZeroException class
+#include "../../libraries/fmt/include/fmt/format.h"
+
 
 // performs division only if the denominator is not zero; 
 // otherwise, throws DivideByZeroException object 

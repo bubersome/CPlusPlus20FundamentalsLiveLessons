@@ -2,11 +2,14 @@
 // Testing standard library vector class template
 // element-manipulation functions.
 #include <algorithm> // copy algorithm
-#include <fmt/format.h> // C++20: This will be #include <format>
+#include <format> // C++20: This will be #include <format>
 #include <iostream>
 #include <ranges> 
 #include <iterator> // ostream_iterator iterator
-#include <vector> 
+#include <vector>
+#include "../libraries/fmt/include/fmt/format.h"
+
+
 
 int main() {
    std::vector values{1, 2, 3, 4, 5}; // class template argument deduction

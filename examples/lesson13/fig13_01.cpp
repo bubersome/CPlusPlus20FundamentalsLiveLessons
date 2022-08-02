@@ -3,14 +3,16 @@
 #include <iostream>
 #include <iterator> // ostream_iterator and istream_iterator
 
+using namespace std;
+
 int main() {
-   std::cout << "Enter two integers: ";
+   cout << "Enter two integers: ";
 
    // create istream_iterator for reading int values from cin
    std::istream_iterator<int> inputInt{std::cin};
 
    const int number1{*inputInt}; // read int from standard input
-   ++inputInt; // move iterator to next input value        
+   ++inputInt; // 移动 move iterator to next input value
    const int number2{*inputInt}; // read int from standard input
 
    // create ostream_iterator for writing int values to cout

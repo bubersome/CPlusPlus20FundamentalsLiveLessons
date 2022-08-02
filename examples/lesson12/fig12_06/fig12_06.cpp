@@ -2,10 +2,11 @@
 // Demonstrating standard new throwing bad_alloc when memory
 // cannot be allocated.
 #include <array>
-#include <fmt/format.h>
+//#include <fmt/format.h>
 #include <iostream>
 #include <memory>
 #include <new> // bad_alloc class is defined here
+#include "../../libraries/fmt/include/fmt/format.h"
 
 int main() {
    std::array<std::unique_ptr<double[]>, 1000> items{};

@@ -1,10 +1,12 @@
 // fig12_07.cpp
 // Demonstrating set_new_handler.
 #include <array>
-#include <fmt/format.h>
+//#include <fmt/format.h>
 #include <iostream>
 #include <memory>
 #include <new> // set_new_handler is defined here
+#include "../../libraries/fmt/include/fmt/format.h"
+
 
 // handle memory allocation failure      
 void customNewHandler() {

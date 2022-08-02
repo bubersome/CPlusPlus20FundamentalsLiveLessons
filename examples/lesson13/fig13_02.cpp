@@ -1,9 +1,10 @@
 // fig13_02.cpp
 // Standard library vector class template.
-#include <fmt/format.h> // C++20: This will be #include <format>
+#include <format> // C++20: This will be #include <format>
 #include <iostream>
 #include <ranges>
 #include <vector> // vector class-template definition
+#include "../libraries/fmt/include/fmt/format.h"
 
 // display value appended to vector and updated vector size and capacity
 void showResult(int value, size_t size, size_t capacity) {

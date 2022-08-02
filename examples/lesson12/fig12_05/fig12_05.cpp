@@ -1,9 +1,11 @@
 // fig12_05.cpp
 // Demonstrating a function try block.
-#include <fmt/format.h>
+//#include <fmt/format.h>
 #include <iostream>
 #include <limits>
 #include <stdexcept>
+#include "../../libraries/fmt/include/fmt/format.h"
+
 
 // class Integer purposely throws an exception from its constructor
 class Integer {

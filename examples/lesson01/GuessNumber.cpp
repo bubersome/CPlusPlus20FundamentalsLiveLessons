@@ -1,7 +1,9 @@
 // Randomly generate numbers between 1 and 1000 for user to guess.
 #include <iostream>
 #include <cstdlib>
+#include <string>
 #include <ctime>
+
 using namespace std;
 
 void guessGame(); // function prototype
@@ -30,8 +32,8 @@ void guessGame() {
       cout << "I have a number between 1 and 1000.\n" 
            << "Can you guess my number?\n" 
            << "Please type your first guess." << endl << "? ";
-      int guess;
-      cin >> guess;
+      int guess = 333;
+//      cin >> guess;
 
       // loop until correct number
       while (!isCorrect(guess, answer)) { 

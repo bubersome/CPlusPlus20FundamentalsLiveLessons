@@ -7,7 +7,7 @@ set(CMAKE_BUILD_TYPE Debug)
 
 #include_directories(examples/lesson03/fig03_05/BigNumber/bin)
 #include_directories(examples/lesson03/fig03_05/BigNumber/bin/BigNumber)
-include_directories(examples/lesson03/fig03_05/BigNumber/bin/BigNumber/include)
+#include_directories(examples/lesson03/fig03_05/BigNumber/bin/BigNumber/include)
 #include_directories(examples/lesson03/fig03_05/BigNumber/src)
 #include_directories(examples/lesson03/fig03_06/fmt)
 #include_directories(examples/lesson04/fig04_12/fmt)
@@ -60,8 +60,8 @@ include_directories(examples/lesson03/fig03_05/BigNumber/bin/BigNumber/include)
 #include_directories(examples/libraries/cereal-1.3.0/unittests)
 #include_directories(examples/libraries/cereal-1.3.0/unittests/boost)
 #include_directories(examples/libraries/cereal-1.3.0/unittests/cpp17)
-#include_directories(examples/libraries/fmt/include)
-#include_directories(examples/libraries/fmt/include/fmt)
+#include_directories(examples/libraries/)
+#include_directories(examples/libraries/fmt/include/fmt/format.h)
 #include_directories(examples/libraries/fmt/test)
 #include_directories(examples/libraries/fmt/test/fuzzing)
 #include_directories(examples/libraries/fmt/test/gtest/gmock)
@@ -78,10 +78,10 @@ add_executable(CPlusPlus20FundamentalsLiveLessons
 #        examples/lesson02/fig02_05.cpp
 #        examples/lesson02/fig02_06.cpp
 #        examples/lesson03/fig03_05/BigNumber/bin/BigNumber/include/bignumber.h
-        examples/lesson03/fig03_05/BigNumber/src/bignumber.cpp
+#        examples/lesson03/fig03_05/BigNumber/src/bignumber.cpp
 #        examples/lesson03/fig03_05/BigNumber/src/bignumber.h
-        examples/lesson03/fig03_05/BigNumber/main.cpp
-        examples/lesson03/fig03_05/fig03_05.cpp
+#        examples/lesson03/fig03_05/BigNumber/main.cpp
+#        examples/lesson03/fig03_05/fig03_05.cpp
 #        examples/lesson03/fig03_06/fmt/core.h
 #        examples/lesson03/fig03_06/fmt/format-inl.h
 #        examples/lesson03/fig03_06/fmt/format.h
@@ -132,7 +132,7 @@ add_executable(CPlusPlus20FundamentalsLiveLessons
 #        examples/lesson06/fmt/core.h
 #        examples/lesson06/fmt/format-inl.h
 #        examples/lesson06/fmt/format.h
-#        examples/lesson06/fig06_01.cpp
+        examples/lesson06/fig06_01.cpp
 #        examples/lesson06/fig06_02.cpp
 #        examples/lesson06/fig06_03.cpp
 #        examples/lesson06/fig06_04.cpp
@@ -146,7 +146,7 @@ add_executable(CPlusPlus20FundamentalsLiveLessons
 #        examples/lesson06/fig06_12.cpp
 #        examples/lesson06/fig06_13.cpp
 #        examples/lesson06/fig06_14.cpp
-#        examples/lesson06/format.cc
+        examples/lesson06/format.cc
 #        examples/lesson07/fig07_01.cpp
 #        examples/lesson07/fig07_02.cpp
 #        examples/lesson07/fig07_03.cpp
@@ -154,7 +154,7 @@ add_executable(CPlusPlus20FundamentalsLiveLessons
 #        examples/lesson07/fig07_07.cpp
 #        examples/lesson07/fig07_08.cpp
 #        examples/lesson07/fig07_09.cpp
-#        examples/lesson07/fig07_10.cpp
+#        examples/lesson07 /fig07_10.cpp
 #        examples/lesson07/fig07_11.cpp
 #        examples/lesson07/fig07_12.cpp
 #        examples/lesson07/fig07_13.cpp
