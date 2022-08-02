@@ -5,8 +5,12 @@
 #include <array>
 #include <random>
 #include <ctime>
-#include "gsl/gsl"
+#include "../libraries/GSL/tests/owner_tests.cpp"
+
+
 using namespace std;
+
+
 
 int main() {
    // use the default random-number generation engine to

@@ -1,8 +1,10 @@
 // Fig. 9.20: Date.cpp
 // Date class member-function definitions.
 #include <string>
-#include <fmt/format.h> // In C++20, this will be #include <format> 
+//#include <fmt/format.h> // In C++20, this will be #include <format>
 #include "Date.h" // include definition of class Date from Date.h
+#include "../../libraries/fmt/include/fmt/format.h"
+
 using namespace std;
 
 // Date constructor (should do range checking)

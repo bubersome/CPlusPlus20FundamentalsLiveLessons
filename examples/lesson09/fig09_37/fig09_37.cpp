@@ -5,9 +5,14 @@
 #include <string>
 #include <string_view>
 #include <vector>
-#include <fmt/format.h> // In C++20, this will be #include <format> 
-#include <cereal/archives/json.hpp>
-#include <cereal/types/vector.hpp>
+//#include <fmt/format.h> // In C++20, this will be #include <format>
+#include "../../libraries/fmt/include/fmt/format.h"
+
+#include "../../libraries/cereal-1.3.0/include/cereal/archives/json.hpp"
+#include "../../libraries/cereal-1.3.0/include/cereal/types/vector.hpp"
+
+//#include <cereal/archives/json.hpp>
+//#include <cereal/types/vector.hpp>
 
 using namespace std;
 

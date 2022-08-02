@@ -2,8 +2,10 @@
 // Demonstrating that class objects can be assigned
 // to each other using the default assignment operator.
 #include <iostream>
-#include <fmt/format.h> // In C++20, this will be #include <format> 
+//#include <fmt/format.h> // In C++20, this will be #include <format>
 #include "Date.h" // include definition of class Date from Date.h
+#include "../../libraries/fmt/include/fmt/format.h"
+
 using namespace std;
 
 int main() {

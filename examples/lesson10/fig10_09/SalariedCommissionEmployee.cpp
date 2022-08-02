@@ -1,8 +1,10 @@
 // Fig. 10.5: SalariedCommissionEmployee.cpp
 // Class SalariedCommissionEmployee member-function definitions.
-#include <fmt/format.h> // In C++20, this will be #include <format> 
+//#include <fmt/format.h> // In C++20, this will be #include <format>
 #include <stdexcept>
 #include "SalariedCommissionEmployee.h"
+#include "../../libraries/fmt/include/fmt/format.h"
+
 using namespace std;
 
 // constructor
